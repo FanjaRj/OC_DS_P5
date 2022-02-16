@@ -11,7 +11,7 @@ Les missions consistent à fournir à l’équipe marketing :
 - une description actionable de votre segmentation et de sa logique sous-jacente pour une utilisation optimale
 - une proposition de contrat de maintenance basée sur une analyse de la stabilité des segments au cours du temps
 
-## Résultats
+## Livrables
 - P5_Analyse.ipynb : notebook de l'analyse exploratoire (non cleané)
 - P5_Essais.ipynb : notebook (ou code commenté au choix) d’essais des différentes approches de modélisation (non cleané) et une simulation pour déterminer la fréquence nécessaire de mise à jour du modèle de segmentation, afin que celui-ci reste pertinent
-- P5_presentation.pdf : un support de présentation
+- P5_Presentation.pdf : un support de présentation
